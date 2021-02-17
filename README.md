@@ -1,2 +1,5 @@
 # hello_world
-getting familiar with Git
+
+Hello! 
+
+Emily here, just a noob trying to learn the ins and outs of software development.
